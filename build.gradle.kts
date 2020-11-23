@@ -14,7 +14,7 @@ plugins {
 subprojects {
 
     group = "de.twiese99"
-    version = "0.1.0.0-SNAPSHOT"
+    version = "1.4.20.1"
 
     repositories {
         mavenLocal()
